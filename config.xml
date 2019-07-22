@@ -17,4 +17,6 @@
     </author>
 
 
+    <access origin="mailto:*" launch-external="yes"/>
+    <access origin="tel:*" launch-external="yes"/>
 </widget>
