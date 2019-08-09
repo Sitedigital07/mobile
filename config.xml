@@ -6,7 +6,7 @@
         id        = "com.phonegap.helloworld"
         version   = "1.0.0">
 
-    <name>Hello World</name>
+    <name>Site Digital</name>
 
     <description>
         Hello World sample application that responds to the deviceready event.
@@ -26,6 +26,7 @@
   <allow-intent href="mailto:*"/>
   <allow-intent href="geo:*"/>
   <platform name="android">
+    <icon src="img/icon.png" density="mdpi" />
     <allow-intent href="market:*"/>
   </platform>
   <platform name="ios">
